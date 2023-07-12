@@ -13,3 +13,6 @@ The watchShopEurekaDiscoveryServer project acts as the Eureka Discovery server, 
 
 ## Getting Started
 After cloning this repository, import each project as existing Maven projects and run all three as Spring Boot Apps in the following order: watchShopEurekaDiscoveryServer, watchShopAPI, watchShopUI. In your browser, type in localhost:8761 to see both applications registered on the Eureka Discovery Server. In a new tab, type in localhost:8087 to see the front-end functionality provided by the watchShopUI.
+
+## Notes
+As previously mentioned the application uses a web client for validation, but switching to Feign Client is currently in the works. 
