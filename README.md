@@ -28,3 +28,5 @@ The watchShopUI project is responsible for the frontend user interface of the wa
 
 3. watchShopEurekaDiscoveryServer:
 The watchShopEurekaDiscoveryServer project acts as the Eureka Discovery server, which facilitates service registration and discovery within the watch shop application. It provides a centralised registry where the watchShopAPI and watchShopUI can register themselves dynamically. This allows for seamless communication and load balancing between different components of the application.
+
+testing testing 123 - testing gh pr create
